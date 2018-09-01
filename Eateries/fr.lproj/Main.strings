@@ -1,0 +1,69 @@
+
+/* Class = "UILabel"; text = "Key"; ObjectID = "2Uh-P2-T68"; */
+"2Uh-P2-T68.text" = "Key";
+
+/* Class = "UILabel"; text = "Как вам у нас?"; ObjectID = "9MX-K1-XUJ"; */
+"9MX-K1-XUJ.text" = "Как вам у нас?";
+
+/* Class = "UITextField"; placeholder = "Название ресторана"; ObjectID = "Clm-ju-K5r"; */
+"Clm-ju-K5r.placeholder" = "Название ресторана";
+
+/* Class = "UILabel"; text = "header"; ObjectID = "ED9-9W-Z8N"; */
+"ED9-9W-Z8N.text" = "header";
+
+/* Class = "UILabel"; text = "Адрес"; ObjectID = "GZZ-QI-Bu2"; */
+"GZZ-QI-Bu2.text" = "Адрес";
+
+/* Class = "UITabBarItem"; title = "О нас"; ObjectID = "Jhh-xb-Ul8"; */
+"Jhh-xb-Ul8.title" = "О нас";
+
+/* Class = "UILabel"; text = "Value"; ObjectID = "KZN-em-NyU"; */
+"KZN-em-NyU.text" = "Value";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "L7c-vV-R2u"; */
+"L7c-vV-R2u.text" = "Title";
+
+/* Class = "UILabel"; text = "Тип"; ObjectID = "M1J-Pz-bM1"; */
+"M1J-Pz-bM1.text" = "Тип";
+
+/* Class = "UILabel"; text = "subheader"; ObjectID = "N3v-Ah-wC3"; */
+"N3v-Ah-wC3.text" = "subheader";
+
+/* Class = "UIButton"; normalTitle = "Да"; ObjectID = "NHN-Pb-9id"; */
+"NHN-Pb-9id.normalTitle" = "Да";
+
+/* Class = "UILabel"; text = "Название"; ObjectID = "Vyp-zg-Lzn"; */
+"Vyp-zg-Lzn.text" = "Название";
+
+/* Class = "UITextField"; placeholder = "Адрес ресторана"; ObjectID = "ZIN-gG-Rxg"; */
+"ZIN-gG-Rxg.placeholder" = "Адрес ресторана";
+
+/* Class = "UINavigationItem"; title = "Мои рестораны"; ObjectID = "d6A-xv-fpM"; */
+"d6A-xv-fpM.title" = "Мои рестораны";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "ekd-8K-Rts"; */
+"ekd-8K-Rts.text" = "Name";
+
+/* Class = "UITextField"; placeholder = "Тип ресторана"; ObjectID = "goA-2E-c3N"; */
+"goA-2E-c3N.placeholder" = "Тип ресторана";
+
+/* Class = "UINavigationItem"; title = "О нас"; ObjectID = "hBd-fR-JS7"; */
+"hBd-fR-JS7.title" = "О нас";
+
+/* Class = "UILabel"; text = "Вы там были?"; ObjectID = "jGb-uw-pfw"; */
+"jGb-uw-pfw.text" = "Вы там были?";
+
+/* Class = "UIButton"; normalTitle = "Нет"; ObjectID = "lDV-xj-Llf"; */
+"lDV-xj-Llf.normalTitle" = "Нет";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "nkh-CH-JIM"; */
+"nkh-CH-JIM.text" = "Location";
+
+/* Class = "UILabel"; text = "Type"; ObjectID = "oN7-jB-7Tg"; */
+"oN7-jB-7Tg.text" = "Type";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qg8-cX-v7O"; */
+"qg8-cX-v7O.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Root View Controller"; ObjectID = "rY8-YQ-1Hz"; */
+"rY8-YQ-1Hz.title" = "Root View Controller";
